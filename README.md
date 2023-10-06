@@ -7,8 +7,8 @@
    inside the quotes you must enter your access key and secret key
    
          ---------- Terraform commands ----------
-terraform init
-terraform plan 
-terraform apply
-terraform destroy
+-> terraform init
+-> terraform plan 
+-> terraform apply 
+-> terraform destroy
     
